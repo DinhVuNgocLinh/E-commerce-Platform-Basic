@@ -41,7 +41,7 @@ This project is for a company that has an e-commerce site as a place to buy and 
 - Draft the ERD : ERDplus
 - Programming languages: Java, SQL
 # III. ERD
-#### Entity & Attributes
+### Entity & Attributes
 ![image](https://github.com/DinhVuNgocLinh/PDM-Project/assets/125757646/f4fd1e4e-7a68-4bde-824e-f291c99f2df8)
 - Customer has Customer's ID(CID), User's ID(UID), Bank's name(Bname), Bank account(Baccount), Phone number(Phone), Customer account password(CPassword), address of customer(Address)
 - Admin has Admin's ID(AID), Admin's name(Aname), admin's email(Email), Admin's Password(Password)
@@ -49,7 +49,7 @@ This project is for a company that has an e-commerce site as a place to buy and 
 - Product has product's ID, product's name, product's price(Price), product's quantity(Quantity)
 - Order has order's ID, the transaction date of  the order(TransactionDate),shipping fee(DeliveryFee), total price including shipping fee and product price(Total)
 - OrderItems has the total price of product that not including shipping fee(Subtotal), quantity of product(Quantity), number of different products(ItemNo)
-#### The complete ERD
+### The complete ERD
 ![image](https://github.com/DinhVuNgocLinh/PDM-Project/assets/125757646/d1543988-e63b-4279-85d5-4b7df6a41ef7)
 # IV. Normalization
 The DataBase Diagram is verified on three level:
