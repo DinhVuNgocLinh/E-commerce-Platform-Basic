@@ -2,6 +2,22 @@
 - This project is to build an e-commerce platform basic including building a database and user interface
 - Inspired by major e-commerce platforms like shopee, lazada,...
 - The project is designed based on Principles of Database Management course
+## 📚 Table of Contents
+
+1. [Introduction](#i-introduction)
+
+   * [Analyst requirement of topic](#1analyst-requirement-of-topic)
+
+     * [Customers](#11user-customers-can)
+     * [Sellers](#12user-sellers-can)
+     * [Admin](#13admin-can)
+   * [Project Goals](#2--goals)
+2. [Tech Stack](#ii-techniques)
+3. [ERD – Entity Relationship Diagram](#iii-erd)
+
+   * [Entities & Attributes](#entity--attributes)
+   * [Full ERD Diagram](#the-complete-erd)
+4. [Normalization](#iv-normalization)
 
 # Members:
 - Dinh Thi Thanh Hang - ITDSIU21083
@@ -56,3 +72,7 @@ The DataBase Diagram is verified on three level:
 - 1NF: A relational database that has all attributes in a tuple must have a single value from the domain of that attribute, and the domain of an attribute only include atomic values. Therefore, database is already in the first normal form.
 - 2NF: A relational database is in first normal form and every non-key characteristic is completely functionally dependent on the primary key. Therefore, database is already in the second normal form.
 - 3NF: A relational database is in 2NF and non-transitive functional dependency of non-prime attributes on any super key. Therefore, database is already in the third normal form.
+
+
+
+
